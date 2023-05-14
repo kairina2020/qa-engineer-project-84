@@ -105,11 +105,11 @@
   environment: |
     Версия 112.0.5615.138 (Официальная сборка), (64 бит)
     ОС Windows 10Pro
- steps-to-reproduce: |
+  steps-to-reproduce: |
   1. нажать кнопку Checkout
- expected-result: |
+  expected-result: |
    Открывается окно оформления заказа
- actual-result: |
+  actual-result: |
   Открывается общий чек на товары, но нет возможности внести данные для оформления, оформить заказ. 
   Функция не реализована
   
