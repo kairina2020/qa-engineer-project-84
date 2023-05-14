@@ -102,7 +102,7 @@
 
 - summary: |
     Проверка возможности оформить заказ
- environment: |
+  environment: |
     Версия 112.0.5615.138 (Официальная сборка), (64 бит)
     ОС Windows 10Pro
  steps-to-reproduce: |
