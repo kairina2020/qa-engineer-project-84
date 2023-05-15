@@ -106,7 +106,7 @@
     Версия 112.0.5615.138 (Официальная сборка), (64 бит)
     ОС Windows 10Pro
   steps-to-reproduce: |
-   1. нажать кнопку Checkout
+    1. нажать кнопку Checkout
   expected-result: |
     Открывается окно оформления заказа
   actual-result: |
